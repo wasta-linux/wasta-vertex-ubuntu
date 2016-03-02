@@ -1,0 +1,5 @@
+wasta-vertex-ubuntu (0.9.0) xenial; urgency=medium
+
+  * wasta-vertex icons with ubuntu-mono-dark as fallback icon set
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 29 Feb 2016 17:02:16 +0300
