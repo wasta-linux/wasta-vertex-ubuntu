@@ -4,7 +4,7 @@ Inherits=ubuntu-mono-dark,gnome,hicolor
 Comment=Wasta-Vertex Ubuntu Icon theme
 
 #Directory list
-Directories=apps/16,places/16,apps/22,places/22,apps/24,places/24,apps/32,places/32,actions/48,apps/48,places/48,apps/64,places/64,apps/96,places/96,apps/128,places/128
+Directories=apps/16,places/16,apps/22,panel/22,places/22,apps/24,places/24,apps/32,places/32,actions/48,apps/48,places/48,apps/64,places/64,apps/96,places/96,apps/128,places/128
 
 [apps/16]
 Size=16
@@ -21,6 +21,11 @@ Type=Fixed
 [apps/22]
 Size=22
 Context=Applications
+Type=Fixed
+
+[panel/22]
+Size=22
+Context=Status
 Type=Fixed
 
 [places/22]
