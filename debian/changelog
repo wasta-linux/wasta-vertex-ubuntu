@@ -1,3 +1,9 @@
+wasta-vertex-ubuntu (1.0.0) xenial; urgency=medium
+
+  * places/*: adding desktop.svg from humanity-dark-aqua-tru
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sun, 01 May 2016 15:02:06 +0300
+
 wasta-vertex-ubuntu (0.9.3) xenial; urgency=medium
 
   * adding panel folder to support unity/cinnamon panels.
