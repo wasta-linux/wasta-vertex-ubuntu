@@ -8,10 +8,12 @@ Homepage: https://github.com/wasta-linux/wasta-vertex-ubuntu
 
 Package: wasta-vertex-ubuntu
 Architecture: all
-Depends: ubuntu-mono, ${shlibs:Depends}, ${misc:Depends}
-Description: Wasta-Vertex Icons inheriting ubuntu-mono-dark
+Depends: humanity-colors, ubuntu-mono, ${shlibs:Depends}, ${misc:Depends}
+Description: Wasta-Vertex Ubuntu Icons
  Thanks to horst3180 for his great vertex-icons icon theme.  Original source
  found here: https://github.com/horst3180/Vertex-icons.  Wasta-Vertex uses
  the vertex-icons folder icons for larger sizes but modifies the 16/22/24 px
- folder icons.  All other icons are inherited by ubuntu-mono-dark.  The
- inherited theme can be changed in the index.theme file.
+ folder icons.  All other icons are inherited by "Humanity Dark Aqua Tru"
+ which is the ubuntu-mono-dark theme modified to use an aqua instead of
+ Ubuntu's standard "orange".  The inherited theme can be changed in the
+ index.theme file.
