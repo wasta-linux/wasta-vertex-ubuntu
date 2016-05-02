@@ -1,3 +1,13 @@
+wasta-vertex-ubuntu (1.0.1) xenial; urgency=medium
+
+  * debian/control: added humanity-colors dependency
+  * index.theme: inherits changed to "Humanity Dark Aqua Tru"
+  * added exit and lockscreen from ubuntu-mono-dark (both icons identical
+    from humanity colors to be just a picture of the computer screen, not
+    clear that it was for shutdown OR for lock).
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 02 May 2016 12:00:49 +0300
+
 wasta-vertex-ubuntu (1.0.0) xenial; urgency=medium
 
   * places/*: adding desktop.svg from humanity-dark-aqua-tru
