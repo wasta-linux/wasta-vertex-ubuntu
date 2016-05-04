@@ -1,3 +1,15 @@
+wasta-vertex-ubuntu (1.0.2) xenial; urgency=medium
+
+  * categories folder added
+    - development icon added: Humanity one is black
+  * panel/scalable folder added
+    - monochrome for clipit added
+    - software update and urgent update copied in from faba: Humanity ones
+      make it seem like some system crash has happened
+  * actions: added logout icons (from Humanity): Humanity color ones too drab
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 04 May 2016 12:12:41 +0300
+
 wasta-vertex-ubuntu (1.0.1) xenial; urgency=medium
 
   * debian/control: added humanity-colors dependency

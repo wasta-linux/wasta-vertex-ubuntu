@@ -4,7 +4,7 @@ Inherits=Humanity-Dark-Aqua-Tru,ubuntu-mono-dark,gnome,hicolor
 Comment=Wasta-Vertex Ubuntu Icon theme
 
 #Directory list
-Directories=actions/16,apps/16,places/16,actions/22,apps/22,panel/22,places/22,actions/24,apps/24,places/24,actions/32,apps/32,places/32,actions/48,apps/48,places/48,apps/64,places/64,apps/96,places/96,apps/128,places/128
+Directories=actions/16,apps/16,categories/16,places/16,actions/22,apps/22,categories/22,places/22,actions/24,apps/24,categories/24,places/24,actions/32,apps/32,categories/32,places/32,actions/48,apps/48,categories/48,places/48,apps/64,places/64,apps/96,places/96,apps/128,places/128,panel/scalable
 
 [actions/16]
 Size=16
@@ -129,3 +129,12 @@ Type=Fixed
 Size=128
 Context=Places
 Type=Fixed
+
+################################
+
+[panel/scalable]
+Context=Status
+Size=22
+MinSize=8
+MaxSize=512
+Type=Scalable
