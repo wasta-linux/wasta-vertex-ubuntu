@@ -1,3 +1,9 @@
+wasta-vertex-ubuntu (1.0.3) xenial; urgency=medium
+
+  * index.theme: adding categories specifications
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 29 Jul 2016 15:11:44 -0500
+
 wasta-vertex-ubuntu (1.0.2) xenial; urgency=medium
 
   * categories folder added
